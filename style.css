@@ -1,0 +1,13 @@
+* {
+	padding: 0;
+	margin: 0;
+	background-color: grey;
+}
+
+#myCanvas {
+	background-color: #eee;
+	display: block;
+	margin: 0 auto;
+
+
+}
